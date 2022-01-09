@@ -32,5 +32,8 @@ Next Sandbox Public Land Sale:
     - Max: 10 ETH  ~ $32,000 ($3,200 x 10)
     - Min: 2.62 ETH  ~ $8,384 ($3,200 x 2.62)
   
-  
+- Potential Profit
+  - $10,752 - $4,850 = $5,902
+
 How land sales work: 
+  - https://sandboxgame.gitbook.io/the-sandbox/land/buying-selling-and-renting-land/public-land-sales
