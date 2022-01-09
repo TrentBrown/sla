@@ -29,8 +29,8 @@ Next Sandbox Public Land Sale:
     - Floor: 3.34 ETH  ~ $10,688 ($3,200 3.34)
     - Average: 3.36 ETH  ~ $10,752 ($3,200 x 3.36)
     - Median: 3.13 ETH  ~ $10,016 ($3,200 x 3.13)
-    - Max: 10 ETH  ~ $xxx ($32,000 x 10)
-    - Min: 2.62 ETH  ~ $xxx ($8,384 x 2.62)
+    - Max: 10 ETH  ~ $32,000 ($3,200 x 10)
+    - Min: 2.62 ETH  ~ $8,384 ($3,200 x 2.62)
   
   
 How land sales work: 
